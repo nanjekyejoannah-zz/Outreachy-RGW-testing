@@ -1,4 +1,4 @@
-###Outreachy project - Multi Language S3 Testing for RGW 
+### Outreachy project - Multi Language S3 Testing for RGW 
 
 The project aims at implementing  a set of tests to test  RGW's S3 interface.Currently there exists a python suite of tests implemented [here]((https://github.com/ceph/s3-tests)).This test suite uses an SDK from Amazon called [Boto]((https://aws.amazon.com/sdk-for-python/)), and has 400 some tests in it. The goal for this project is to have other test suites, in other languages specifically (c++ , java and Go), that all test the same subset of the 400 python tests. The mentors will decide on what subset of these tests should be implemented for each language. These other test suites would use the SDKs from amazon as well (https://aws.amazon.com/tools/). 
 
