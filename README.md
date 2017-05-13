@@ -22,5 +22,4 @@ The project aims at implementing  a set of tests to test  RGW's S3 interface.Cur
 
 Bonding period started on 8th May.
 
-+ [Week1](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Community Bonding/week1.md)
-+ [Week2](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Community Bonding/week2.md)
++ [Week 1](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Community%20Bonding/week1.md)
