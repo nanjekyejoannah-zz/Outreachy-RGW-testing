@@ -12,7 +12,7 @@ The project aims at implementing  a set of tests to test  RGW's S3 interface.Cur
 ## Project Links
 
 + [Proposal](https://docs.google.com/document/d/10lclL3q1kPiJ7hoSiius5ajgD4YX5m4Zp8HOaSva_bw/edit)
-+ [Trello Board](https://trello.com/b/etwTtnv4/outreachy)
++ [Trello Board](https://trello.com/invite/b/etwTtnv4/0f37aaa4005c5452968b78de5b0538f8/outreachy-rgw-testing)
 + [Project Repo](https://github.com/nanjekyejoannah/s3-tests)
 + [DailyLogs](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Daily%20Logs/logfile.md)
 
