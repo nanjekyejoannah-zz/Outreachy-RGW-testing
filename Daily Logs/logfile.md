@@ -7,16 +7,17 @@
 
 + Created [Project Tracker]((https://github.com/Outreachy-RGW-testing)) on github. 
 + Created and update Trello Board.
-+ Examined the RGW [python test Suite](https://github.com/ceph/s3-tests) codebase for ideas to get an idea on what tests to write for the other language suites.
++ Examined the RGW [python test Suite](https://github.com/ceph/s3-tests) codebase to get an idea on what tests to write for the other language suites.
 
 **Tasks for the next period**
 
 + Have IRC with mentor to discuss project execution and my questions on ceph workflow.
++ Run those tests in python Suite on fedora.
 
 
 ### 12th, May, 2017
 
-#### Solve Fedora Blockers and Run RGW tests in python Suite.
+#### Solved Fedora Blockers and Run RGW tests in python Suite.
 
 **Tasks Accomplished**
 
