@@ -11,15 +11,21 @@ The project aims at implementing  a set of tests to test  RGW's S3 interface.Cur
 
 ## Project Links
 
++ [Project TimeLine](https://docs.google.com/document/d/186YHbdIGi1Ja2X6t24vIufU3pLyBVhKzhskY6Ax_0x4/edit?usp=sharing)
 + [Proposal](https://docs.google.com/document/d/10lclL3q1kPiJ7hoSiius5ajgD4YX5m4Zp8HOaSva_bw/edit)
 + [Trello Board](https://trello.com/b/etwTtnv4/outreachy)
-+ [Project Repo](https://github.com/nanjekyejoannah/s3-tests)
 + [DailyLogs](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Daily%20Logs/logfile.md)
+
+## Project Source Code
+
++ [GO_RGW_S3Tests](https://github.com/nanjekyejoannah/GO_RGW_S3Tests)
 
 ## Project Task Summary by week
 
 ### Community Bonding Period
 
-Bonding period started on 8th May.
++ [Bonding time summary](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Community%20Bonding/bonding.md)
+
+### Coding Period
 
 + [Week 1](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Community%20Bonding/week1.md)
