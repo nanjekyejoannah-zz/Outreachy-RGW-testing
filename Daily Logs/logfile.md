@@ -15,8 +15,12 @@ We started off the coding period on 30th May. The [week 1](https://github.com/na
 
 **Tasks for the next period**
 
-+ Have IRC with mentor to discuss project execution and my questions on ceph workflow.
-+ Run those tests in python Suite on fedora.
++ Connect to RGW
+
+**Blockers**
+
++ Having a few hickups with my machine hanging when I run Ceph. It will work for the most time. However it hangs often and it is inconviniencing. I am considering another plan of running ceph on another computer and just using my laptop to connect to RGW.
+
 
 
 [Community Bonding]()
