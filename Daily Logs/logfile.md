@@ -1,4 +1,27 @@
 
+[Coding Period]()
+
+We started off the coding period on 30th May. The [week 1](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Community%20Bonding/week1.md) has more updates. The daily log is not so up to date. I want to save some time for other interesting things than updating what I had missed in daily logs. After all the week 1 summary does a good job.
+
+### 5th, June, 2017
+
+#### Submitted First Tests for Feedback, Hacking connection to RGW.
+
+**Tasks Accomplished**
+
++ I worked on my first tests and submitted them for feedback. 
++ I embacked on hacking the RGW Connection.
++ I also  did some house keeping things like blogging what I have learned, updating the project tracker and Trello boards.
+
+**Tasks for the next period**
+
++ Have IRC with mentor to discuss project execution and my questions on ceph workflow.
++ Run those tests in python Suite on fedora.
+
+
+[Community Bonding]()
+
+
 ### 13th, May, 2017
 
 #### Prepare Week Activity log, Run python RGW tests.
