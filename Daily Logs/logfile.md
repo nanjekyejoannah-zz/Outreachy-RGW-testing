@@ -1,7 +1,37 @@
 
-[Coding Period]()
+## Coding Period
 
-We started off the coding period on 30th May. The [week 1](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Community%20Bonding/week1.md) has more updates. The daily log is not so up to date. I want to save some time for other interesting things than updating what I had missed in daily logs. After all the week 1 summary does a good job.
+We started off the coding period on 30th May. The [week 1](https://github.com/nanjekyejoannah/go_s3tests/blob/master/Community%20Bonding/week1.md) has more updates. The daily log is not so up to date. I want to save some time for other interesting things than updating what I had missed in daily logs. After all the week 1 summary does a good job.
+
+### 7th, June, 2017
+
+#### Hacked RGW connection
+
+**Tasks Accomplished**
+
++ I hacked connection to RGW from one machine to another using Go client. 
++ I began writing tests for [s3 bucket operations](https://trello.com/b/etwTtnv4/outreachy-rgw-testing)
+
+**Tasks for the next period**
+
++ Commit tests on bucket operations for feedback.
++ Discuss an [issue](https://github.com/nanjekyejoannah/go_s3tests/issues/1) opened with author.
+
+
+### 6th, June, 2017
+
+#### Got feedback from tests, Discussed RGW connection
+
+**Tasks Accomplished**
+
++ I had chat with mentor discussing how I can goabout connection. 
++ I got feedback on the eight tests I had commited
+
+**Tasks for the next period**
+
++ Connect to RGW with Go
+
+
 
 ### 5th, June, 2017
 
@@ -23,7 +53,7 @@ We started off the coding period on 30th May. The [week 1](https://github.com/na
 
 
 
-[Community Bonding]()
+## Community Bonding
 
 
 ### 13th, May, 2017

@@ -6,7 +6,7 @@ hmmm, Let me see. Well It was not a busy one on outreachy activities as I still 
 
 **Community Introduction**
 
-I was introduced to the Ceph community. I got to know the differentpeople I can contact in case i got stack with anything on the project. It was a warm welcome.
+I was introduced to the Ceph community. I got to know the different people I can contact in case i got stack with anything on the project. It was a warm welcome.
 
 **Ceph Overflow**
 
