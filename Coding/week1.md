@@ -1,5 +1,5 @@
 
-##Starting the coding Period, Writing My first Tests to get Feedback
+**Starting the coding Period, Writing My first Tests to get Feedback**
 
 I began summer on a little setting up. Developing clear objectives for the summer and we agreed that we would have a call with to discuss tasks on 1st June.
 

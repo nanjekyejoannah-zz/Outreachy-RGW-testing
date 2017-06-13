@@ -7,7 +7,7 @@ The project aims at implementing  a set of tests to test  RGW's S3 interface.Cur
 + Name: Joannah Nanjekye
 + Github: [nanjekyejoannah](https://github.com/nanjekyejoannah)
 + Email: nanjekyejoannah@gmail.com
-+ Nick: Joannah
++ Slack nick: Joannah
 
 ## Project Links
 
@@ -18,14 +18,15 @@ The project aims at implementing  a set of tests to test  RGW's S3 interface.Cur
 
 ## Project Source Code
 
-+ [GO_RGW_S3Tests](https://github.com/nanjekyejoannah/go_s3tests)
++ [go_s3tests](https://github.com/nanjekyejoannah/go_s3tests)
 
 ## Project Task Summary by week
 
 ### Community Bonding Period
 
-+ [Bonding time summary](https://github.com/nanjekyejoannah/go_s3tests/blob/master/Community%20Bonding/bonding.md)
++ [Bonding time summary](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Community%20Bonding/bonding.md)
 
 ### Coding Period
 
-+ [Week 1](https://github.com/nanjekyejoannah/go_s3tests/blob/master/Community%20Bonding/week1.md)
++ [Week 1](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week1.md)
++ [Week 2](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week2.md)

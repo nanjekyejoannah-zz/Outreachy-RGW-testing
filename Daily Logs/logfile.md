@@ -3,6 +3,60 @@
 
 We started off the coding period on 30th May. The [week 1](https://github.com/nanjekyejoannah/go_s3tests/blob/master/Community%20Bonding/week1.md) has more updates. The daily log is not so up to date. I want to save some time for other interesting things than updating what I had missed in daily logs. After all the week 1 summary does a good job.
 
+### 13th, June, 2017
+
+#### Working on Bucket operations Tests
+
+**Tasks Accomplished**
+
++ Submited some 20 tests for feedback
+
+**Tasks for the next period**
+
++ Work on blog for end of week 2
++ Continue on tests for bucket operaions.
+
+
+### 12th, June, 2017
+
+#### Working on Bucket operations Tests
+
+**Tasks Accomplished**
+
++ Wrote tests for FileUploads
+
+**Tasks for the next period**
+
++ Work on Posting Objects
++ Submit tests on buckets, objects and file upload
+
+
+### 9th, June, 2017
+
+#### Working on Bucket operations Tests
+
+**Tasks Accomplished**
+
++ Wrote tests for Object Operations
+
+**Tasks for the next period**
+
++ Work on tests for FileUploads
+
+
+### 8th, June, 2017
+
+#### Started Working on Bucket operations Tests
+
+**Tasks Accomplished**
+
++ Wrote tests for bucket CRUD
+
+**Tasks for the next period**
+
++ Begin working on tests for Object Operations
+
+
 ### 7th, June, 2017
 
 #### Hacked RGW connection
