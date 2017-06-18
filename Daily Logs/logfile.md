@@ -3,6 +3,67 @@
 
 We started off the coding period on 30th May. The [week 1](https://github.com/nanjekyejoannah/go_s3tests/blob/master/Community%20Bonding/week1.md) has more updates. The daily log is not so up to date. I want to save some time for other interesting things than updating what I had missed in daily logs. After all the week 1 summary does a good job.
 
+### 15th, June, 2017
+
+#### Wrote week 1 and 2 Blog and Test listing objects that are delimited and prefixed
+
+**Tasks Accomplished**
+
++ Wrote blog on week 1 and 2. I will publish on Sunday, 17th June.
++ Worked on tests for listing objects that are delimited and prefixed.
++ I did some clean up . removed config from /conf/ and put it in ./ in the project folder.
++ Updated Read me accordingly.
+
+**Tasks for the next period**
+
++ Discuss an issue opened by someone on the project.
++ Work on more tests
++ Analyse integration to teutology.
+
+
+### 15th, June, 2017
+
+#### Writing more tests, removing hard coded credentials
+
+**Tasks Accomplished**
+
++ Changed configuration type to toml.
++ I was able to load the credentials from the config.
++ Wrote tests for Getting Objects in a range..
++ Made corrections to the readme.
+
+
+**Blocker**
+
++ test Execution procedure still not working for people that want to run the code.
+
+**Tasks for the next period**
+
++ Get feedback on tests
++ Work on more tests.
+
+### 14th, June, 2017
+
+#### Worked on Reviews from submitted tests
+
+**Tasks Accomplished**
+
++ Corrected the tests to run.
++ Added newlines at the end of my code files.
++ Made corrections to the readme.
++ Fixed broken package imports
++ Submitted the tests for more feedback
+
+**Blocker**
+
++ Failed to load credential from config. Instead credentials were hard coded.
+
+**Tasks for the next period**
+
++ Fix configuration
++ Work on more tests.
+
+
 ### 13th, June, 2017
 
 #### Working on Bucket operations Tests
