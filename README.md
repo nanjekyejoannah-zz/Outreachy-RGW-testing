@@ -30,4 +30,5 @@ The project aims at implementing  a set of tests to test  RGW's S3 interface.Cur
 
 + [Week 1](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week1.md)
 + [Week 2](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week2.md)
-+ [Week 3](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week.md)
++ [Week 3](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week3.md)
++ [Week 4](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week4.md)
