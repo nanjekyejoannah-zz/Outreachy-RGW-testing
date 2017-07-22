@@ -18,6 +18,7 @@ The project aims at implementing  a set of tests to test  RGW's S3 interface.Cur
 ## Project Source Code
 
 + [go_s3tests](https://github.com/nanjekyejoannah/go_s3tests)
++ [java_s3tests](https://github.com/nanjekyejoannah/java_s3tests)
 
 ## Project Task Summary by week
 
@@ -31,3 +32,4 @@ The project aims at implementing  a set of tests to test  RGW's S3 interface.Cur
 + [Week 2](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week2.md)
 + [Week 3](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week3.md)
 + [Week 4](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week4.md)
++ [Week 5 and 6](https://github.com/nanjekyejoannah/Outreachy-RGW-testing/blob/master/Coding/week5and6.md)
